@@ -15,7 +15,7 @@ No credit is needed for using this script, modify it however you like. Any sugge
    - Open Aseprite.
    - Go to `File` > `Scripts` > `Open Scripts Folder`.
    - Copy `LayerFilterer.lua` into the scripts folder.
-   - Restart Aseprite, or go to `File` > `Scripts` > `Reload Scripts`.
+   - Restart Aseprite, or go to `File` > `Scripts` > `Rescan Scripts Folder`.
 
 ---
 
